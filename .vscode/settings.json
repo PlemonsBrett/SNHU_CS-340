@@ -1,0 +1,13 @@
+{
+    "cSpell.words": [
+        "aacuser",
+        "ipynb",
+        "monthyear",
+        "Plemons",
+        "Pydantic",
+        "pymongo",
+        "Salvare"
+    ],
+    "python.analysis.stubPath": "./typings",
+    "python.analysis.useLibraryCodeForTypes": true
+}
