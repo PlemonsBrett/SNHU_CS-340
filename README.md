@@ -144,41 +144,41 @@ Below are screenshots of the data import process and authentication setup. These
 
 Importing the dataset using `mongoimport`
 
-![Importing the dataset using mongoimport](images/ImportingDataSet.png)
+![Importing the dataset using mongoimport](images/DatabaseScreenshots/ImportingDataSet.png)
 
 Creating a new user
 
-![Creating a new user](images/CreatingUser.png)
+![Creating a new user](images/DatabaseScreenshots/CreatingUser.png)
 
 Setting Environment Variables and Connecting as New User
 
-![Setting environment variables and connecting as the new user](images/SettingEnvironmentVariablesConnectingAsNewUser.png)
+![Setting environment variables and connecting as the new user](images/DatabaseScreenshots/SettingEnvironmentVariablesConnectingAsNewUser.png)
 
 Testing New User DB Access
 
-![Testing new user database access](images/TestingDBAccess.png)
+![Testing new user database access](images/DatabaseScreenshots/TestingDBAccess.png)
 
 ## CRUD Functionality Demonstration
 
 The following screenshots show the successful execution of CRUD operations using the module:
 
-![Import module and setup test environment](images/ImportModuleAndConnectToDB.png)
+![Import module and setup test environment](images/DatabaseScreenshots/ImportModuleAndConnectToDB.png)
 
-![Testing Create Functionality](images/TestCreateFunctionality.png)
+![Testing Create Functionality](images/DatabaseScreenshots/TestCreateFunctionality.png)
 
-![Testing Read Functionality](images/TestReadFunctionality.png)
+![Testing Read Functionality](images/DatabaseScreenshots/TestReadFunctionality.png)
 
-![Testing Read Multiple Functionality](images/TestReadingMultipleDocuments.png)
+![Testing Read Multiple Functionality](images/DatabaseScreenshots/TestReadingMultipleDocuments.png)
 
-![Testing Update Functionality](images/TestUpdate.png)
+![Testing Update Functionality](images/DatabaseScreenshots/TestUpdate.png)
 
-![Testing Update Many Functionality](images/TestUpdateMany.png)
+![Testing Update Many Functionality](images/DatabaseScreenshots/TestUpdateMany.png)
 
-![Testing Delete and Delete Many Functionality](images/TestDeleteAndDeleteMany.png)
+![Testing Delete and Delete Many Functionality](images/DatabaseScreenshots/TestDeleteAndDeleteMany.png)
 
-![Testing with invalid input](images/HandleInvalidInput.png)
+![Testing with invalid input](images/DatabaseScreenshots/HandleInvalidInput.png)
 
-![Close connection and clean up](images/CleanupAndClose.png)
+![Close connection and clean up](images/DatabaseScreenshots/CleanupAndClose.png)
 
 ## Dash User Interface
 
